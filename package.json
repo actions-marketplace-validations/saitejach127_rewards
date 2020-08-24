@@ -1,0 +1,25 @@
+{
+  "name": "rewards",
+  "version": "1.0.0",
+  "description": "A Github Action to reward the contributors",
+  "main": "index.js",
+  "scripts": {
+    "build": "ncc build index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saitejach127/rewards.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saitejach127/rewards/issues"
+  },
+  "homepage": "https://github.com/saitejach127/rewards#readme",
+  "dependencies": {
+    "@actions/core": "^1.2.4",
+    "@actions/github": "^4.0.0",
+    "axios": "^0.20.0"
+  }
+}

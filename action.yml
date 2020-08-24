@@ -1,0 +1,5 @@
+name: 'Reward'
+description: 'Rewarding the contributors with points'
+runs:
+  using: 'node12'
+  main: 'dist/index.js'
