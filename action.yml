@@ -1,4 +1,4 @@
-name: 'Reward'
+name: 'reward'
 description: 'Rewarding the contributors with points'
 runs:
   using: 'node12'
