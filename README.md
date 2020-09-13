@@ -3,7 +3,8 @@ This action rewards the opensource contributors based on there commits
 
 ### no inputs and outputs
 
-To check the number of points gained by you on open source check at https://reward-keeper.herokuapp.com/rewards/your-username
+To check the points by repo level Goto https://reward-keeper.herokuapp.com/repo/username_repoName <br />
+To check the points gained by a particular user Goto https://reward-keeper/user/username <br />
 
 ## Example usage
 `uses : saitejach127/rewards@v2`
